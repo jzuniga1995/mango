@@ -1,0 +1,154 @@
+
+.encabezado{
+
+
+  color: white;
+  text-align: center;
+  font-family: cursive;
+  background-color: transparent;
+  height: 5px;
+ 
+
+}
+
+
+
+
+body{
+
+background-image: url( imagenes/fondo.jpg);
+margin: 0%;
+box-sizing: border-box;
+
+
+
+
+}
+
+.content{
+float: right;
+width: 90%;
+height: 550px;
+background-color:  transparent; 
+margin: 60px;
+position: relative;
+
+
+
+
+
+
+
+}
+
+
+
+
+.content3{
+
+float: left;
+width: 25%;
+height: 550px;
+text-align: center;
+
+
+
+}
+.content1{
+    float: left;
+width: 25%;
+height: 550px;
+text-align: center;
+
+
+
+    
+}
+
+.content2{
+
+float: left;
+width: 25%;
+height: 550px;
+text-align: center;
+
+    
+
+}
+
+
+    
+
+
+
+.text-justify { 
+    text-align: justify;
+    margin: 20px;
+  }
+  
+
+  .letra{
+
+    color:  white;
+
+   font-family: cursive;
+
+
+  }
+
+  .jk{
+
+color: white;
+font-family: cursive;
+
+
+
+  }
+  .content4{
+
+    float: right;
+width: 20%;
+height: 100px;
+background-color:  transparent; 
+margin: 30px;
+position: relative;
+    
+
+
+
+  }
+  .content4 h3{
+
+
+    text-align: justify;
+    font-family: cursive;
+    size: 20px;
+    color: white;
+ 
+    
+  }
+  .content4 p{
+
+  color: white;
+   text-align: center;
+    font-family: cursive;
+    size: 20px;
+    
+
+  }
+
+  .conten5{
+
+  border-color: brown;
+  box-sizing: 20px;
+
+
+
+
+
+  }
+  @media screen and (min-width:300px) and (max-width:800px) {
+    body{font-size:0.8em;}
+    sidebar{display:none;}
+    }
+    
